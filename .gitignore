@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# App runtime data (generated, not source)
+app/review_log.csv
