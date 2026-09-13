@@ -5,3 +5,5 @@ scikit-learn==1.9.1
 joblib==1.6.0
 shap==0.52.0
 matplotlib==3.11.2
+google-genai==2.23.0
+truststore==0.10.4
